@@ -12,7 +12,7 @@ spec:
     spec:
       containers:
         - name: app
-          image: bookapi:latest
+          image: registry.eu-de.bluemix.net/ethilesen/bookapi:latest
           imagePullPolicy: IfNotPresent
           ports:
             - containerPort: 3000
