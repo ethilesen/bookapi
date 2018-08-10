@@ -163,7 +163,7 @@ which applies all YAML deployment files through `kubectl`.
         "updated_at": "2017-05-15T03:39:25.773Z"
     }
 
-## Update
+##  Update
 
     PUT /books/<slug>
     Content-Type: application/json
